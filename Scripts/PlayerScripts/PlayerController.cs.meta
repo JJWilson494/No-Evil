@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6fc9dda21f71f540a4d6c3a473cb976
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - postProcessing: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - darkstorm: {instanceID: 0}
+  - fx: {fileID: 114545042509691728, guid: 4c69585a8465f534b82aec505ea93f55, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
